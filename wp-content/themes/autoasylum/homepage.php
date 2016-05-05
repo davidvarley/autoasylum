@@ -10,6 +10,8 @@
 
 get_header(); ?>
 
+	<link rel="stylesheet" type="text/css" href="styles.css">
+
 	<div class="jumbotron">
 
 		<img src="wp-content/themes/autoasylum/img/jumbotron.jpg">
